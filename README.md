@@ -1,8 +1,11 @@
 # HarvestRushRestaurant 后厨急餐餐厅
 > 基于 Java Swing 的课程设计项目，综合运用多种设计模式，模拟菜园种植、后厨做菜、顾客点餐的小游戏。
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d2994f2a-6d9e-49dd-8116-5416dabffff1" />
+
+
 
 ## ✨ 项目简介
-双人分工模拟餐厅系统：一边种植作物收获食材，一边接收顾客订单、烹饪出餐。
+双人分工模拟合作的餐厅系统：可以一边种植作物收获食材，一边接收顾客订单、烹饪出餐！
 项目核心目标：**实践六大经典设计模式**。
 
 ## 🧩 使用的设计模式
