@@ -1,4 +1,4 @@
-# HarvestRushRestaurant 丰收急餐餐厅
+# HarvestRushRestaurant 后厨急餐餐厅
 > 基于 Java Swing 的课程设计项目，综合运用多种设计模式，模拟菜园种植、后厨做菜、顾客点餐的小游戏。
 
 ## ✨ 项目简介
